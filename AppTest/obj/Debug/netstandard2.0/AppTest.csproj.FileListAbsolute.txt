@@ -1,0 +1,14 @@
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\bin\Debug\netstandard2.0\AppTest.deps.json
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\bin\Debug\netstandard2.0\AppTest.dll
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\bin\Debug\netstandard2.0\ref\AppTest.dll
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\bin\Debug\netstandard2.0\AppTest.pdb
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.csprojAssemblyReference.cache
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.AssemblyInfoInputs.cache
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.AssemblyInfo.cs
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.csproj.CoreCompileInputs.cache
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.dll
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\ref\AppTest.dll
+D:\Users\David Rafael Tejada\source\repos\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.pdb
